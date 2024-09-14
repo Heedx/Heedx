@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Heedx
-- 👀 I’m interested in computer vision and robotics!
-- 🌱 I’m currently learning raspberry pis
+- 👀 I’m interested in computer vision, robotics, ML/AI, and evolutionary computing!
+- 🌱 I’m currently learning machine learning!
 
 <!---
 Heedx/Heedx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
